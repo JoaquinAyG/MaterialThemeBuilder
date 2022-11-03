@@ -42,24 +42,24 @@
 
     <!--Color palette-->
 
-    <color name="purple_200">#bb86fc</color> <!--Color primary (dark)-->
-    <color name="purple_500">#009688</color> <!--Color primary (light)-->
-    <color name="purple_600">#4b01d0</color> <!--Color primary variant (dark)-->
-    <color name="purple_700">#3700b3</color> <!--Color primary variant (light)-->
+    <color name="purple_200">#7809FF</color> <!--Color primary (dark)-->
+    <color name="purple_500">#9CFBF3</color> <!--Color primary (light)-->
+    <color name="purple_600">#8C4CFF</color> <!--Color primary variant (dark)-->
+    <color name="purple_700">#8D7FAE</color> <!--Color primary variant (light)-->
 
-    <color name="green_200">#03dac6</color> <!--Color secondary-->
-    <color name="green_500">#018786</color> <!--Color secondary variant-->
+    <color name="green_200">#01433D</color> <!--Color secondary-->
+    <color name="green_500">#00FFFA</color> <!--Color secondary variant-->
 
-    <color name="red_200">#cf6679</color> <!--Color error (dark)-->
-    <color name="red_600">#b00020</color> <!--Color error (light)-->
+    <color name="red_200">#C50C2D</color> <!--Color error (dark)-->
+    <color name="red_600">#B13C51</color> <!--Color error (light)-->
 
     <!--Color surface (light), color on error (light), -->
     <!--color on surface (dark), color on surface (dark)-->
-    <color name="white_50">#ffffff</color>
+    <color name="white_50">#000000</color>
 
-    <color name="black_800">#121212</color> <!--Color surface (dark)-->
+    <color name="black_800">#FFFFFF</color> <!--Color surface (dark)-->
     <!--Color on secondary (light), color on background (light),-->
     <!--color on surface (light)-->
-    <color name="black_900">#000000</color>
+    <color name="black_900">#B6B6B6</color>
 
 </resources>
